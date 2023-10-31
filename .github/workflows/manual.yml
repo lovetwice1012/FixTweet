@@ -11,4 +11,4 @@ jobs:
         uses: FuLagann/tsc-build-push@v1
         with:
           user-name: "lovetwice1012"
-          user-email: "lovetwuce1012@gmail.com
+          user-email: "lovetwuce1012@gmail.com"
